@@ -191,6 +191,9 @@ Deny from all
 
 
 ## A list of any third-party resources used
+* [Initial Server Setup with Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04)
+* [How To Change SSH Port in Ubuntu](http://idroot.net/tutorials/how-to-change-ssh-port-in-ubuntu/)
+* [HOW DO I DISABLE SSH LOGIN FOR THE ROOT USER?](https://mediatemple.net/community/products/dv/204643810/how-do-i-disable-ssh-login-for-the-root-user)
 * [How To Protect SSH with Fail2Ban on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04)
 * [AutomaticSecurityUpdates](https://help.ubuntu.com/community/AutomaticSecurityUpdates)
 * [How To Secure PostgreSQL on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
